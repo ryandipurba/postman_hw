@@ -1,0 +1,1 @@
+newman run Homework.postman_collection.json -e Fazztrack.postman_environment.json
